@@ -8,3 +8,4 @@ ENV TIGER_STATE_SCRIPT /tmp/tiger-state.sh
 ENV TIGER_STATES NY
 
 ADD init/ docker-entrypoint-initdb.d/
+
